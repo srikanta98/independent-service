@@ -1,0 +1,47 @@
+
+
+
+[
+    {
+        "id": 1,
+        "name": "Cultural Program",
+        "price": "300",
+        "description": "Get cultural program in my tourist places.",
+        "img": "https://i.ibb.co/MGQwk2q/ex2.png"
+    },
+    {
+        "id": 2,
+        "name": "Save on travel",
+        "price": "100",
+        "description": "Time is money.So I will roam around the world in time.",
+        "img": "https://i.ibb.co/8PFf2yL/ex4.png"
+    },
+    {
+        "id": 3,
+        "name": "Fixed schedeule",
+        "price": "150",
+        "description": "I tried to fixed your schedule in proper way",
+        "img": "https://i.ibb.co/jLWsB7X/ex5.png"
+    },
+    {
+        "id": 4,
+        "name": "River Crossing",
+        "price": "180",
+        "description": "Get your river crossing tickets now.Who doesn't want to play with water",
+        "img": "https://i.ibb.co/NKBVRqs/ex6.png"
+    },
+    {
+        "id": 5,
+        "name": "Stay Clean",
+        "price": "100",
+        "description": "Stay neat and clean.I will help you in this feature to stay clean.",
+        "img": "https://i.ibb.co/Yhqf2bD/ex7.png"
+    },
+    {
+        "id": 6,
+        "name": "Cooking campaign",
+        "price": "300",
+        "description": "Get this offer for limited time.Taste great snacks and dinner in our tourist places",
+        "img": "https://i.ibb.co/JxrMFn7/ex8.png"
+    }
+]

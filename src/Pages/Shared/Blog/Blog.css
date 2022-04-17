@@ -1,0 +1,38 @@
+.pip{
+    text-align: center;
+    margin-bottom: 40px;
+    color: brown;
+}
+
+.f-question{
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    align-content: center;
+    border-radius: 50px;
+    background-color: rgb(218, 211, 214);
+    margin-top: 20px;
+    padding: 5px;
+}
+.f-question h1{
+    text-align: center;
+}
+.f-question p{
+    text-align: center;
+}
+.q-question{
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    align-content: center;
+    border-radius: 50px;
+    background-color: rgb(218, 211, 214);
+}
+.q-question h1{
+    text-align: center;
+}
+.q-question p{
+    text-align: center;
+}
