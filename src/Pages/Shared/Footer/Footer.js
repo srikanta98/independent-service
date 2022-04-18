@@ -36,7 +36,7 @@ const Footer = () => {
 
                                     />
                                     <p className='font'>
-                                       I will work along to get you in the most desired place.Hope you will enjoy the journey with us
+                                       I will work along to get you in the most desired place.Hope you will enjoy the journey with me
                                     </p>
                                 </div>
 
